@@ -7,3 +7,4 @@ of the following files:
 3. Visualization of Decision Tree: Decision Tree MultiClass Full Set.png
 4. Visualization of Decision Tree: Decision Tree Binary Wed set.png
 5. Visualization of Decision Tree: Decision Tree MultiClass Wed set.png
+6. Visualization of Decision Tree: Decision Tree MultiClass Wed set (Spacial).png
